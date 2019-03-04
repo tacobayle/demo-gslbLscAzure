@@ -1,0 +1,18 @@
+---
+gitUrlBase: https://github.com/tacobayle/
+
+repo:
+  - name: aviLsc.git
+    version: v1.02
+  - name: vyos.git
+    version: v1.06
+  - name: cs.git
+    version: v1.02
+  - name: aviBootstrap.git
+    version: v1.11
+  - name: aviLscCloud.git
+    version: v1.03
+  - name: aviAlerts.git
+    version: v1.04
+  - name: aviGslb.git
+    version: v1.01

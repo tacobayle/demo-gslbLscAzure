@@ -1,0 +1,10 @@
+---
+gitUrlBase: https://github.com/tacobayle/
+
+repo:
+  - name: Azure.git
+    version: v1.04
+  - name: aviBootstrap.git
+    version: v1.1
+  - name: aviAzure.git
+    version: v1.01
